@@ -2,7 +2,6 @@
 import org.junit.Assert;
 import org.junit.Test;
 import org.hamcrest.CoreMatchers;
-
 import static org.junit.Assert.*;
 
 public class UserRegistrationTest {
